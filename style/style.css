@@ -451,6 +451,7 @@ main {
 }
 
 .home-complects-section>div {
+    width: 100%;
     justify-content: space-between;
     display: flex;
     gap: 20px;
@@ -2164,7 +2165,7 @@ li.openable.active>ul {
     }
 
     .home-complects-section>div:last-of-type .title-with-bg p {
-        padding: 2px 20px;
+        padding: 2px 16px;
     }
 
     .home-about_left h2 {
